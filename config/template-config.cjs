@@ -2,7 +2,7 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的, 早上好',
+    title: '喵喵喵，记得写今天的666件可写的事',
     desc: `
       **{{date.DATA}}**
       
