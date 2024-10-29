@@ -1,8 +1,8 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: '0001',
-    title: '喵喵喵，记得写今天的666件可写的事',
+    id: 'B8Od9QWnin5YhvE3MV_2OON4Sk7tk-GE8M-4LJF1OzM',
+    title: '该写今天的小事啦',
     desc: `
       **{{date.DATA}}**
       
@@ -36,7 +36,7 @@ const TEMPLATE_CONFIG = [
     `
   },
   {
-    id: '0002',
+    id: 'lhjZJR9mtPlzN6XyU01vM7Bd5rZcg7t5Eha-HSF7Usw',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
